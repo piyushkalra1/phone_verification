@@ -6,7 +6,6 @@ import 'package:flutter/material.dart';
 import 'package:phone_verification/house.dart';
 import 'package:phone_verification/otpnow.dart';
 import 'package:phone_verification/services/firebase_services.dart';
-import 'nouse/toptextbutton.dart';
 
 class MyPhone extends StatefulWidget {
   const MyPhone({Key? key}) : super(key: key);
